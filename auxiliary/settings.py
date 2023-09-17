@@ -1,0 +1,2 @@
+webhook_url = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=6629c438-208e-49dc-aa29-ce6233adb2a8"
+cta_group_bot = 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=133b7e11-83c1-4cb6-b0ff-e96797832503'
